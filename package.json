@@ -1,0 +1,10 @@
+{
+  "name": "@nasserakhter/eslint-plugin-typescript-no-unjustified-as",
+  "version": "1.0.0",
+  "description": "Requires a justification comment for all 'as' type assertations",
+  "main": "index.js",
+  "repository": "https://github.com/nasserakhter/eslint-plugin-typescript-no-unjustified-as",
+  "author": "nasserakhter",
+  "license": "MIT",
+  "private": false
+}
